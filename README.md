@@ -1,5 +1,5 @@
 # App lock library for Android
-[![](https://jitpack.io/v/balrampandey19/AppLocker.svg)](https://jitpack.io/#balrampandey19/AppLocker)
+[![](https://jitpack.io/v/RedCarpetUp/AppLock.svg)](https://jitpack.io/#RedCarpetUp/AppLock)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 
