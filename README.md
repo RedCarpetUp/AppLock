@@ -62,7 +62,7 @@ and:
 
 ```gradle
 dependencies {
-   compile 'com.github.balrampandey19:AppLocker:1.0.1'
+	       implementation 'com.github.RedCarpetUp:AppLock:1.0.1'
 }
 ```
 
