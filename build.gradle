@@ -2,8 +2,8 @@
 
 buildscript {
     repositories {
-        jcenter()
         google()
+        jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.4'
@@ -15,10 +15,18 @@ buildscript {
 
 allprojects {
     repositories {
+        google()
         jcenter()
     }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+ext {
+
+    support_lib = '28.0.0'
+
+    plugin_version = "3.1.0"
+
 }
