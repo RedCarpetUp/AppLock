@@ -61,9 +61,12 @@ allprojects {
 and:
 
 ```gradle
-dependencies {
-	       implementation 'com.github.RedCarpetUp:AppLock:1.0.1'
-}
+dependencies 
+        {
+	        
+      	'implementation 'com.github.RedCarpetUp:AppLock:Tag'
+		
+	}
 ```
 
 
